@@ -1,0 +1,8 @@
+{
+  "name": "BloomBox",
+  "description": "Choose it. Personalize it. Send the surprise. Personalized quick-gifting, fresh flowers, cakes, and custom gift boxes delivered across Dehradun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
